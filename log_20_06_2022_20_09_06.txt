@@ -1,0 +1,8 @@
+﻿Process started [20/06/2022 20:09:06]
+Configuration data processed successfully [20/06/2022 20:09:06]
+Browser loaded successfully [20/06/2022 20:09:08]
+USD data read successfully [20/06/2022 20:09:16]
+JPY data read successfully [20/06/2022 20:09:18]
+Data was successfully written to the file [20/06/2022 20:09:23]
+Email was successfully send to the customer [20/06/2022 20:09:47]
+Process completed successfully [20/06/2022 20:09:47]
